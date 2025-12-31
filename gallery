@@ -1,0 +1,190 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gallery</title>
+  		
+		
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="styles/style.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
+        <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
+        <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+        
+  <meta name="keywords"
+        content="photo gallery, photo gallery of sanskriti public school, gallery of sps sonipat, photos of sps panipat"/>
+</head>
+<body>
+		
+		<div style="width:100%; height:220px; position:absolute; z-index:999;">
+	        <center>
+	        	<img src="images/logo.png" style="height:120px; padding-top:10px;"/>
+        	</center>
+	        <p class="schl_name" style="font-family:BubblegumSans; text-align:center; font-size:40px; color:#F0FFF0; font-weight:bold;">SANSKRITI PUBLIC SCHOOL</p>
+	        <p class="schl_name" style="font-family:BubblegumSans; text-align:center; font-size:25px; color:#F0FFF0;">Khandra, Panipat</p>
+	    </div>
+	    <div style="width:100% padding-bottom:5px;">
+	        <img src="images/contact_hdr.jpg" style="width:100%; height:220px; filter:blur(8px);"/>
+	    </div>
+	    
+		<table id="navbar">
+	        <tr>
+	            <td style="width:15%"></td>
+	            <td>
+	                <a href="http://www.spskhandra.com">
+	                	HOME
+                	</a>
+	            </td>
+	            <td>
+	                <a href="facilities">
+	                	FACILITIES
+                	</a>
+	            </td>
+	            <td>
+	                <a href="gallery">
+	                	GALLERY
+                	</a>
+	            </td>
+	            <td>
+	                <a href="mandatory_public_disclosure">
+	                	MANDATORY&nbsp;PUBLIC&nbsp;DISCLOSURE
+                	</a>
+	            </td>
+	            <td>
+	                <a href="contact_us">
+	                	CONTACT&nbsp;US
+                	</a>
+	            </td>
+	            <td style="width:15%"></td>
+	        </tr>
+	    </table>
+	    <table id="second_navbar">
+	        <tr>
+	            <td  onclick="openNav()">
+	                <p>
+	                    <i class="fa fa-bars" style="font-size:23px;"></i> OPTIONS
+	                </p>
+	            </td>
+	        </tr>
+	    </table>
+	    second nav options--
+	    <div id="myNav" class="overlay">
+	      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+	      <div class="overlay-content">
+	        <a href="http://www.spskhandra.com">HOME</a>
+	        <a href="facilities">FACILITIES</a>
+	        <a href="gallery">GALLERY</a>
+	        <a href="mandatory_public_disclosure">MANDATORY PUBLIC DISCLOSURE</a>
+	        <a href="contact_us">CONTACT US</a>
+	      </div>
+	    </div>
+	    <script>
+	        function openNav() {
+	          document.getElementById("myNav").style.width = "100%";
+	        }
+	
+	        function closeNav() {
+	          document.getElementById("myNav").style.width = "0%";
+	        }
+	    </script>
+	
+
+
+<p class="heading">Activities
+</p>
+<div style="width:90%; border:1px solid #427d6e; margin-left:3%; box-shadow:-5px 4px 6px grey;"></div>
+
+<table class="gallery_tble folder1" style="width:80%; margin-left:5%; border-collapse:seperate; border-spacing:30px;">
+  <tr>
+    <td>
+      
+      <img data-aos="fade-up" data-aos-duration="900"
+           src="https://web.ayuka.org/display?tg=galrypic&apiKey=SpSKnd@459@&pic=76.0"
+           style="width:100%; height:200px;"
+      />
+    </td>
+    <td rowspan="2">
+      
+      <img data-aos="fade-up" data-aos-duration="900"
+           src="https://web.ayuka.org/display?tg=galrypic&apiKey=SpSKnd@459@&pic=77.0"
+           style="width:100%; height:300px;"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      
+      <img data-aos="fade-up" data-aos-duration="900"
+           src="https://web.ayuka.org/display?tg=galrypic&apiKey=SpSKnd@459@&pic=78.0"
+           style="width:100%; height:300px;"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      
+      <img data-aos="fade-up" data-aos-duration="900"
+           src="https://web.ayuka.org/display?tg=galrypic&apiKey=SpSKnd@459@&pic=79.0"
+           style="height:200px; width:100%;"
+      />
+    </td>
+  </tr>
+</table>
+
+<p class="heading">Events
+</p>
+<div style="width:90%; border:1px solid #427d6e; margin-left:3%; box-shadow:-5px 4px 6px grey;"></div>
+
+<table class="gallery_tble folder2" style="width:85%; margin-left:5%; border-collapse:seperate; border-spacing:30px;">
+  <tr>
+    <td rowspan="2">
+      
+      <img data-aos="fade-up" data-aos-duration="900"
+           src="https://web.ayuka.org/display?tg=galrypic&apiKey=SpSKnd@459@&pic=72.0"
+           style="width:100%; height:200px;"
+      />
+    </td>
+    <td></td>
+    <td></td>
+    <td rowspan="2">
+      
+      <img data-aos="fade-up" data-aos-duration="900"
+           src="https://web.ayuka.org/display?tg=galrypic&apiKey=SpSKnd@459@&pic=73.0"
+           style="width:100%; height:200px;"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td id="gal_rem">
+      
+      <img data-aos="fade-up" data-aos-duration="900"
+           src="https://web.ayuka.org/display?tg=galrypic&apiKey=SpSKnd@459@&pic=74.0"
+           style="width:100%; height:250px;"
+      />
+    </td>
+    <td>
+      
+      <img data-aos="fade-up" data-aos-duration="900"
+           src="https://web.ayuka.org/display?tg=galrypic&apiKey=SpSKnd@459@&pic=75.0"
+           style="width:100%; height:250px;"
+      />
+    </td>
+  </tr>
+</table>
+
+
+		<div style="background:#242f64; width:100%; margin-top:5%;">
+	        <p style="font-family:BubblegumSans; padding:12px; font-size:20px; text-align:center;">
+	        	<a href="https://www.ayukadevelopers.com" style="text-decoration:none; color:white; ">
+	        		Designed By - AYUKA DEVELOPERS <br> (www.ayukadevelopers.com | 9050404553)
+        		</a>
+        	</p>
+	    </div>
+	
+	    <script>
+	        AOS.init();
+	    </script>
+</body>
+</html>

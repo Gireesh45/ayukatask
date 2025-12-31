@@ -1,0 +1,620 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mandatory Public Disclosure</title>
+  		
+		
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="styles/style.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
+        <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
+        <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+        
+  <meta name="keywords"
+        content="mandatory public disclosure of sps panipat, mandatory documents of sanskriti public school"/>
+</head>
+<body>
+		
+		<div style="width:100%; height:220px; position:absolute; z-index:999;">
+	        <center>
+	        	<img src="images/logo.png" style="height:120px; padding-top:10px;"/>
+        	</center>
+	        <p class="schl_name" style="font-family:BubblegumSans; text-align:center; font-size:40px; color:#F0FFF0; font-weight:bold;">SANSKRITI PUBLIC SCHOOL</p>
+	        <p class="schl_name" style="font-family:BubblegumSans; text-align:center; font-size:25px; color:#F0FFF0;">Khandra, Panipat</p>
+	    </div>
+	    <div style="width:100% padding-bottom:5px;">
+	        <img src="images/contact_hdr.jpg" style="width:100%; height:220px; filter:blur(8px);"/>
+	    </div>
+	    
+		<table id="navbar">
+	        <tr>
+	            <td style="width:15%"></td>
+	            <td>
+	                <a href="http://www.spskhandra.com">
+	                	HOME
+                	</a>
+	            </td>
+	            <td>
+	                <a href="facilities">
+	                	FACILITIES
+                	</a>
+	            </td>
+	            <td>
+	                <a href="gallery">
+	                	GALLERY
+                	</a>
+	            </td>
+	            <td>
+	                <a href="mandatory_public_disclosure">
+	                	MANDATORY&nbsp;PUBLIC&nbsp;DISCLOSURE
+                	</a>
+	            </td>
+	            <td>
+	                <a href="contact_us">
+	                	CONTACT&nbsp;US
+                	</a>
+	            </td>
+	            <td style="width:15%"></td>
+	        </tr>
+	    </table>
+	    <table id="second_navbar">
+	        <tr>
+	            <td  onclick="openNav()">
+	                <p>
+	                    <i class="fa fa-bars" style="font-size:23px;"></i> OPTIONS
+	                </p>
+	            </td>
+	        </tr>
+	    </table>
+	    second nav options--
+	    <div id="myNav" class="overlay">
+	      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+	      <div class="overlay-content">
+	        <a href="http://www.spskhandra.com">HOME</a>
+	        <a href="facilities">FACILITIES</a>
+	        <a href="gallery">GALLERY</a>
+	        <a href="mandatory_public_disclosure">MANDATORY PUBLIC DISCLOSURE</a>
+	        <a href="contact_us">CONTACT US</a>
+	      </div>
+	    </div>
+	    <script>
+	        function openNav() {
+	          document.getElementById("myNav").style.width = "100%";
+	        }
+	
+	        function closeNav() {
+	          document.getElementById("myNav").style.width = "0%";
+	        }
+	    </script>
+	
+
+
+<p class="heading">General Information</p>
+<div style="width:90%; border:1px solid #427d6e; margin-left:3%; box-shadow:-5px 4px 6px grey;"></div>
+<table data-aos="fade-up" data-aos-duration="900" class="mandatory_tble"
+       style="width:90%; margin-left:3%; margin-top:1%;">
+  <tr>
+    <th style="width:5%;"><p>S.No.</p></th>
+    <th style="width:35%;"><p>Information</p></th>
+    <th style="width:60%;"><p>Details</p></th>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>1
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Name of the School</p>
+    </td>
+    <td>
+      <p>Sanskriti Public School</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>2
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Affiliation No.</p>
+    </td>
+    <td>
+      <p>531551</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>3
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>School Code</p>
+    </td>
+    <td>
+      <p>41525</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>4
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Address</p>
+    </td>
+    <td>
+      <p>Village Khandra, P.O. Shera, Panipat, Haryana (132113)</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>5
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Principal Name & Qualification</p>
+    </td>
+    <td>
+      <p>Ms. Jyoti Gehlawat (M.A, M.Ed)</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>6
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>School email id</p>
+    </td>
+    <td>
+      <p>spskhandra@gmail.com</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>7
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Contact Details</p>
+    </td>
+    <td>
+      <p>9050435037, 8396035037</p>
+    </td>
+  </tr>
+</table>
+
+
+<p class="heading">Documents</p>
+<div style="width:90%; border:1px solid #427d6e; margin-left:3%; box-shadow:-5px 4px 6px grey;"></div>
+<table data-aos="fade-up" data-aos-duration="900" class="mandatory_tble"
+       style="width:90%; margin-left:3%; margin-top:1%;">
+  <tr>
+    <th style="width:5%;"><p>S.No.</p></th>
+    <th><p>Documents</p></th>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>1
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/affiliation_letter.pdf" target="_blank">Copies Of Affiliation/Upgradation Letter And Recent
+          Extension Of Affiliation</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>2
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/society_registration.pdf" target="_blank">Copies Of Societies/Trust/Company Registration/Renewal
+          Certificate</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>3
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/noc.pdf" target="_blank">Copy Of No Objection Certificate (NOC)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>4
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/recognition_certificate.pdf" target="_blank">Copies Of Recognition Certificate</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>5
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/building_safety.pdf" target="_blank">Copy Of Building Safety Certificate</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>6
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/fire_safety.pdf" target="_blank">Copy Of Fire Safety Certificate</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>7
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="#">Copy Of The DEO Certificate</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>8
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/hygenic_and_sanitation_certificate.pdf" target="_blank">Copy Of valid Water, Health & Sanitation
+          Certificate</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>9
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/mandatory_public_disclosure.pdf" target="_blank">Mandatory Public Disclosure : Form</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+<p class="heading">Result & Academics</p>
+<div style="width:90%; border:1px solid #427d6e; margin-left:3%; box-shadow:-5px 4px 6px grey;"></div>
+<table data-aos="fade-up" data-aos-duration="900" class="mandatory_tble"
+       style="width:90%; margin-left:3%; margin-top:1%;">
+  <tr>
+    <th style="width:5%;"><p>S.No.</p></th>
+    <th><p>Documents</p></th>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>1
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/fee_structure.pdf" target="_blank">Fee Structure</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>2
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/annual_academic_calendar_junior.pdf" target="_blank">Annual Academic Calendar - Junior</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>3
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/annual_academic_calendar_senior.pdf" target="_blank">Annual Academic Calendar - Senior</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>4
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/exam_calendar.pdf" target="_blank">Exam Calendar</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>5
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/management_committee.pdf" target="_blank">List Of Management Committee</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>6
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="#">List Of Parents Teacher's Association</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>7
+      </p>
+    </td>
+    <td>
+      <p>
+        <a href="docs/result.pdf" target="_blank">Board Exams Result</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+<p class="heading">Staff (Teaching)</p>
+<div style="width:90%; border:1px solid #427d6e; margin-left:3%; box-shadow:-5px 4px 6px grey;"></div>
+<table data-aos="fade-up" data-aos-duration="900" class="mandatory_tble"
+       style="width:90%; margin-left:3%; margin-top:1%;">
+  <tr>
+    <th style="width:5%;"><p>S.No.</p></th>
+    <th style="width:75%;"><p>Information</p></th>
+    <th style="width:20%;"><p>Details</p></th>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>1
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Principal</p>
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>2
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Total No. Of Teachers</p>
+    </td>
+    <td>
+      <p>28</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>3
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p> > PGT</p>
+    </td>
+    <td>
+      <p>11</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>4
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p> > TGT</p>
+    </td>
+    <td>
+      <p>5</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>5
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p> > PRT</p>
+    </td>
+    <td>
+      <p>12</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>6
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p> > PTI</p>
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>7
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Teachers Section Ratio</p>
+    </td>
+    <td>
+      <p>1:1.5</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>8
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Details Of Special Educator</p>
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>9
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Details of Counsellor and Wellness Teacher</p>
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+</table>
+
+
+
+<p class="heading">School Infrastructure</p>
+<div style="width:90%; border:1px solid #427d6e; margin-left:3%; box-shadow:-5px 4px 6px grey;"></div>
+<table data-aos="fade-up" data-aos-duration="900" class="mandatory_tble"
+       style="width:90%; margin-left:3%; margin-top:1%;">
+  <tr>
+    <th style="width:5%;"><p>S.No.</p></th>
+    <th style="width:75%;"><p>Information</p></th>
+    <th style="width:20%;"><p>Details</p></th>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>1
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Total Campus Area of the School (in sq mtr)</p>
+    </td>
+    <td>
+      <p>12473</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>2
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>No. & Size of Classrooms (in sq mtr)</p>
+    </td>
+    <td>
+      <p>22 (1087)</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>3
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>No. & Size of Laboratories including Computer Labs (in sq mtr)</p>
+    </td>
+    <td>
+      <p>5 (276)</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>4
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>Internet Facility (Y/N)</p>
+    </td>
+    <td>
+      <p>Y</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>5
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>No. of Girls Toilet</p>
+    </td>
+    <td>
+      <p>12</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>6
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>No. of Boys Toilets</p>
+    </td>
+    <td>
+      <p>15</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right:1px dotted grey;">
+      <p>7
+      </p>
+    </td>
+    <td style="border-right:1px dotted grey;">
+      <p>No. of Staff Toilets</p>
+    </td>
+    <td>
+      <p>8</p>
+    </td>
+  </tr>
+</table>
+
+		<div style="background:#242f64; width:100%; margin-top:5%;">
+	        <p style="font-family:BubblegumSans; padding:12px; font-size:20px; text-align:center;">
+	        	<a href="https://www.ayukadevelopers.com" style="text-decoration:none; color:white; ">
+	        		Designed By - AYUKA DEVELOPERS <br> (www.ayukadevelopers.com | 9050404553)
+        		</a>
+        	</p>
+	    </div>
+	
+	    <script>
+	        AOS.init();
+	    </script>
+
+</body>
+</html>
