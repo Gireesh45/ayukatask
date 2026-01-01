@@ -1,4 +1,6 @@
-
+# Remove any comment tags around the script tag
+# The file should look like this at the end:
+cat > index.html << 'EOF'
 <!doctype html>
 <html lang="en">
   <head>
@@ -17,3 +19,4 @@
     <script type="module" src="/main.jsx"></script>
   </body>
 </html>
+EOF
