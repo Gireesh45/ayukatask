@@ -1,17 +1,15 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import { fileURLToPath, URL } from 'node:url'
 
 export default defineConfig({
   plugins: [react()],
-  resolve: {
-    alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url)),
-    },
-  },
+  // Explicitly set root to current directory
+  root: process.cwd(),
   build: {
     rollupOptions: {
-      input: 'index.html',
-    },
-  },
+      input: {
+        main: './index.html'
+      }
+    }
+  }
 })
