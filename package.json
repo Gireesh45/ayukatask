@@ -1,8 +1,11 @@
 {
-  "name": "ayuka-root",
-  "version": "1.0.0",
+  "name": "sanskriti-public-scl",
   "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "build": "cd sanskriti-public-scl && npm run build"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }
