@@ -3,9 +3,9 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  // Explicitly set root to current directory
-  root: process.cwd(),
+  root: '.',  // This should be current directory
   build: {
+    outDir: 'dist',
     rollupOptions: {
       input: {
         main: './index.html'
