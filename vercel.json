@@ -1,4 +1,6 @@
 {
+  "buildCommand": "cd sanskriti-public-scl && npm install && npm run build",
+  "outputDirectory": "sanskriti-public-scl/dist",
   "rewrites": [
     {
       "source": "/(.*)",
